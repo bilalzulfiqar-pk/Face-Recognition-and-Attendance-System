@@ -10,13 +10,13 @@ Features:
 5. Recognizes both known and unknown faces.
 
 Usage:
-Press q to quit the webcam.
-Press t to capture and save a face when adding a new record.
+1. Press q to quit the webcam.
+2. Press t to capture and save a face when adding a new record.
 
 File Structure:
 
-Images/: Folder where all face images are stored.
-Attendance/: Folder where attendance CSV files are saved.
+1. Images/: Folder where all face images are stored.
+2. Attendance/: Folder where attendance CSV files are saved.
 
 Notes:
 Ensure that no extra files or subfolders are present in the Images/ folder, as this may cause errors.
