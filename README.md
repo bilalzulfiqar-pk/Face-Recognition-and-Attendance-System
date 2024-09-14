@@ -18,5 +18,6 @@ File Structure:
 2. Attendance/: Folder where attendance CSV files are saved.
 
 Notes:
-Ensure that no extra files or subfolders are present in the Images/ folder, as this may cause errors.
-The system compares faces based on a threshold of 0.5 for accurate recognition.
+1. Ensure that no extra files or subfolders are present in the Images/ folder, as this may cause errors.
+2. I used Python 3.9
+3. The system compares faces based on a threshold of 0.5 for accurate recognition.
