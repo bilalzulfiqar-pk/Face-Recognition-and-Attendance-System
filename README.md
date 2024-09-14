@@ -1,4 +1,3 @@
-Description:
 This project is a face recognition-based attendance system built using Python, OpenCV, and the face_recognition library. It captures images from a webcam, recognizes faces by comparing them with pre-saved images, and marks attendance in a CSV file. The system allows you to add new records by capturing a face and associating it with an ID and name, then later it can automatically recognize the person and mark their attendance when detected.
 
 Features:
